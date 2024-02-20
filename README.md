@@ -1,5 +1,7 @@
 Reinforcement Learning for Acrobot-v1
+
 Introduction
+
 Reinforcement Learning (RL) involves creating intelligent agents that learn optimal behavior through trial-and-error in a specific context. In this project, we implemented RL using Deep Q-Learning to train an agent to play the Acrobot-v1 game from OpenAI Gym. The Acrobot environment features a two-link robotic arm with the goal of raising the lower link's end to a certain height in an upright position.
 
 RL Model Implementation
